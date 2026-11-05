@@ -1,6 +1,6 @@
 cask "opa-notch" do
-  version "0.3.0"
-  sha256 "fa980c727e75c796ba48c276fa40c60e2e406333f6415e2518bce74f904b3268"
+  version "0.3.1"
+  sha256 "c1dfbbd6230d4f2a4277cced4738b2d0f45d4a8cd86643c518a9e23f90537b6f"
 
   url "https://github.com/609-RESEARCH/opa.notch/releases/download/v#{version}/opa.notch.dmg"
   name "opa.notch"
